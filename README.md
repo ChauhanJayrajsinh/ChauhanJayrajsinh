@@ -3,8 +3,8 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=7F3DFF&center=true&vCenter=true&width=800&lines=Learning+HTML%2C+CSS%2C+JS+%F0%9F%92%BB;Building+my+foundation+step+by+step+%F0%9F%9A%80;Exploring+code+with+curiosity+%F0%9F%8C%9F" alt="Typing Animation" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=7F3DFF&center=true&vCenter=true&width=800&lines=Learning+HTML%2C+CSS%2C+JS+%F0%9F%92%BB;Building+my+foundation+step+by+step+%F0%9F%9A%80;Exploring+code+with+curiosity+%F0%9F%8C%9F" alt="Typing Animation" />
   </a>
 </div>
 
