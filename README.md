@@ -1,7 +1,5 @@
-<!-- Top blue styling bar -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b84f3,1c4eff&height=18&section=header&text=" width="100%"/>
-</p>
+<!-- Top blue line -->
+---
 
 <h2 align="center">Hi, I'm Jayraj 👋</h2>
 <p align="center"><strong>1st Semester B-Tech • Learning Web Development • Building my foundation</strong></p>
@@ -53,7 +51,5 @@ Build a strong foundation in **Web Development + Python & Linux**, and publish b
 
 ---
 
-<!-- Blue wave footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0b84f3,1c4eff&height=80&section=footer&text=" width="100%"/>
-</p>
+<!-- Bottom blue line -->
+---
