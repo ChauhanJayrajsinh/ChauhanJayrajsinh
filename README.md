@@ -1,53 +1,71 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Jayraj%20Chauhan&fontSize=40&fontColor=fff)
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0,102,255&height=140&section=header&text=Hi!%20I'm%20Jayraj%20Chauhan&fontSize=36&fontColor=ffffff" alt="header"/>
+</p>
 
 <p align="center">
-  <b>🚀 A learner exploring code, discipline, and self-growth.</b><br>
-  <i>I build, I break, I learn — every single day.</i>
+  <strong>🌃 Web Developer in making • Learner • Problem-solver</strong><br>
+  <em>Building useful things and learning every day.</em>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🌍 From Gujarat, India  
-- 💻 Beginner developer improving every day  
-- 📚 Learning Linux, Python, SQL, Web Development  
-- 🎯 Growth-focused, disciplined, and curious  
+## 🔭 About Me
+- 📍 Gujarat, India  
+- 👨‍💻 Focus: Web Development (HTML, CSS, JS) + Python & Linux  
+- 🎯 Goal: Build a solid foundation and publish real projects
 
 ---
 
-## 🛠 Skills & Tools  
-
-### 💻 Programming & Web Development  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
-</p>
-
-### ⚙️ Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+## 🧰 Technology Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,bootstrap,tailwind,vscode,git,github,linux" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChauhanJayrajsinh&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanJayrajsinh&layout=compact&theme=tokyonight" height="165"/>
+  <!-- GitHub stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ChauhanJayrajsinh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="48%"/>
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanJayrajsinh&layout=compact&theme=dark&hide_border=true" alt="Most used languages" width="48%"/>
 </p>
 
----
-
-## 🚀 Current Goal
-Become consistent in coding + build a strong foundation in  
-**Python, Linux, SQL, and Web Development (HTML, CSS, JS).**
-
----
-
-## 🤝 Connect  
+<!-- Contribution / Streaks -->
 <p align="center">
-  <a href="https://github.com/ChauhanJayrajsinh">
-    <img src="https://skillicons.dev/icons?i=github" width="50">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanJayrajsinh&theme=dark&hide_border=true" alt="streak-stats" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+---
+
+## 🚀 Featured Projects
+> Add links to your repositories here — copy the repo URL and paste.
+- [Portfolio (example)](https://github.com/ChauhanJayrajsinh/portfolio) — A simple responsive website (HTML/CSS/JS)
+- [Web Starter](https://github.com/ChauhanJayrajsinh/web-starter) — Boilerplate with index.html & styles
+
+---
+
+## 📝 How to get the "Most Used Languages" visible
+GitHub calculates languages from actual code files in your repos. To show HTML/CSS/JS:
+
+1. Create a repository (e.g. `web-starter`) and add these three files:
+   - `index.html`
+   - `styles.css`
+   - `script.js`
+2. Commit and push / upload them to GitHub. After a minute the "Most Used Languages" card will update.
+
+If you want, I can give you starter code for `index.html`, `styles.css`, and `script.js` you can upload now.
+
+---
+
+## 📫 Connect
+<p align="center">
+  <a href="https://github.com/ChauhanJayrajsinh"><img src="https://skillicons.dev/icons?i=github" width="36"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" width="36"/></a>
+</p>
+
+---
+
+*Made with ❤️ — update the project links and tweak badges to match your real tools.*
