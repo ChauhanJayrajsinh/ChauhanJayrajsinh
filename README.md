@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Hey!%20I'm%20Jayraj%20Chauhan&height=150&fontSize=40&desc=1st%20Semester%20B-Tech%20%7C%20Web%20Dev%20Learner&descAlignY=70&color=0:4facfe,100:6a00f4&stroke=ffffff" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=6A00F4&center=true&vCenter=true&width=500&lines=1st+Semester+B-Tech+Student;Learning+Web+Development;HTML+%7C+CSS+%7C+JavaScript;Python+%26+Linux+Learner;Building+My+Foundation" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
