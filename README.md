@@ -46,19 +46,6 @@
 
 ---
 
-## 📝 How to get the "Most Used Languages" visible
-GitHub calculates languages from actual code files in your repos. To show HTML/CSS/JS:
-
-1. Create a repository (e.g. `web-starter`) and add these three files:
-   - `index.html`
-   - `styles.css`
-   - `script.js`
-2. Commit and push / upload them to GitHub. After a minute the "Most Used Languages" card will update.
-
-If you want, I can give you starter code for `index.html`, `styles.css`, and `script.js` you can upload now.
-
----
-
 ## 📫 Connect
 <p align="center">
   <a href="https://github.com/ChauhanJayrajsinh"><img src="https://skillicons.dev/icons?i=github" width="36"/></a>
