@@ -1,6 +1,6 @@
 <!-- Sunset Banner -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstockcake.com%2Fi%2Fsunset-over-ocean_1343434_834337&psig=AOvVaw2WezMBg6jxIA7ijaEErCEL&ust=1763295807100000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi8yfWS9JADFQAAAAAdAAAAABAT" width="100%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftropical-sunset&psig=AOvVaw2WezMBg6jxIA7ijaEErCEL&ust=1763295807100000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi8yfWS9JADFQAAAAAdAAAAABAc" width="100%" />
 </p>
 
 <h2 align="center">Hi, I'm Jayraj 👋</h2>
