@@ -20,17 +20,39 @@
 ---
 
 ## 🧰 Tech I'm Learning
-<p align="left">
- [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" >
+    <img src="https://skillicons.dev/icons?i=html" width="56" alt="HTML" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" >
+    <img src="https://skillicons.dev/icons?i=css" width="56" alt="CSS" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
+    <img src="https://skillicons.dev/icons?i=js" width="56" alt="JavaScript" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org" >
+    <img src="https://skillicons.dev/icons?i=python" width="56" alt="Python" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kernel.org" >
+    <img src="https://skillicons.dev/icons?i=linux" width="56" alt="Linux" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com" >
+    <img src="https://skillicons.dev/icons?i=vscode" width="56" alt="VS Code" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com" >
+    <img src="https://skillicons.dev/icons?i=github" width="56" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com" >
+    <img src="https://skillicons.dev/icons?i=git" width="56" alt="Git" />
+  </a>
 </p>
-
 ---
 
 ## 📊 My GitHub Stats
