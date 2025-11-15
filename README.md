@@ -1,30 +1,30 @@
-<!-- Background Banner -->
+<!-- Sunset Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/7kZtYwZ.png" width="100%" />
+  <img src="https://i.imgur.com/HX8cPhT.png" width="100%" />
 </p>
 
 <h2 align="center">Hi, I'm Jayraj 👋</h2>
-<p align="center"><strong>1st Semester B-Tech Student • Learning Web Dev • Building my basics</strong></p>
+<p align="center"><strong>1st Semester B-Tech Student • Learning Web Development • Building My Foundation</strong></p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 First-year B-Tech student  
 - 🌱 Currently learning **HTML, CSS, JavaScript, Python & Linux**  
-- ⚡ Want to become a **Web Developer**  
-- 🎯 Focus: Consistency, basics, and building small projects  
-- 📍 Gujarat, India  
+- 🌐 Interested in Web Development  
+- 🎯 Priority: Strong basics + small beginner projects  
+- 📍 From Gujarat, India  
 
 ---
 
-## 🧰 Tech I'm Learning Right Now  
-<p align="left">
+## 🧰 Technologies I'm Learning
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,vscode,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChauhanJayrajsinh&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanJayrajsinh&layout=compact&theme=dark&hide_border=true" width="48%" />
@@ -36,17 +36,17 @@
 
 ---
 
-## 🌱 Current Goal  
-Build a strong foundation in **HTML, CSS, JavaScript, Python, and Linux**, and publish beginner-friendly projects.
+## 🚀 Current Goal
+Build a strong foundation in **Web Development + Python & Linux**, and publish beginner-friendly projects.
 
 ---
 
-## 📂 Projects (Will Add More Soon)
-- 🔹 *Coming soon…*
+## 📂 Projects (More Coming Soon)
+- 🔹 *Will add simple HTML/CSS/JS projects soon…*
 
 ---
 
-## 📫 Connect  
+## 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/ChauhanJayrajsinh">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
