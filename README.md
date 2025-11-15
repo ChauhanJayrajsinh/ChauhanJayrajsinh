@@ -1,6 +1,6 @@
-<!-- Top gradient filter -->
+<!-- Top blue styling bar -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7e5f,ff9966&height=140&section=header&text=Hi!%20I'm%20Jayraj%20Chauhan&fontSize=36&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b84f3,1c4eff&height=18&section=header&text=" width="100%"/>
 </p>
 
 <h2 align="center">Hi, I'm Jayraj 👋</h2>
@@ -53,7 +53,7 @@ Build a strong foundation in **Web Development + Python & Linux**, and publish b
 
 ---
 
-<!-- Bottom subtle filter / footer -->
+<!-- Blue wave footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=diagonal&color=ff9966,ff7e5f&height=60&section=footer&text=&fontSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0b84f3,1c4eff&height=80&section=footer&text=" width="100%"/>
 </p>
