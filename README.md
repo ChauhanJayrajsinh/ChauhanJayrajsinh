@@ -21,7 +21,14 @@
 
 ## 🧰 Tech I'm Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,vscode,github,git" />
+ [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 </p>
 
 ---
