@@ -1,4 +1,4 @@
-<!-- Top Banner -->
+<!-- Top Banner (Blue → Purple) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Hey!%20I'm%20Jayraj%20Chauhan&height=150&fontSize=40&desc=1st%20Semester%20B-Tech%20%7C%20Web%20Dev%20Learner&descAlignY=70&color=0:4facfe,100:6a00f4&stroke=ffffff" />
 </p>
@@ -17,7 +17,7 @@
 - 🌱 Learning **HTML, CSS, JavaScript, Python, Linux**  
 - 💻 Goal: Become a Web Developer  
 - 🎯 Focus on small projects + strong basics  
-- 📍 Gujarat, India  
+- 📍 Gujarat, India
 
 ---
 
