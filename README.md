@@ -1,58 +1,56 @@
-<!-- Banner -->
+<!-- Background Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0,102,255&height=140&section=header&text=Hi!%20I'm%20Jayraj%20Chauhan&fontSize=36&fontColor=ffffff" alt="header"/>
+  <img src="https://i.imgur.com/7kZtYwZ.png" width="100%" />
 </p>
 
-<p align="center">
-  <strong>🌃 Web Developer in making • Learner • Problem-solver</strong><br>
-  <em>Building useful things and learning every day.</em>
-</p>
+<h2 align="center">Hi, I'm Jayraj 👋</h2>
+<p align="center"><strong>1st Semester B-Tech Student • Learning Web Dev • Building my basics</strong></p>
 
 ---
 
-## 🔭 About Me
+## 🧑‍💻 About Me
+- 🎓 First-year B-Tech student  
+- 🌱 Currently learning **HTML, CSS, JavaScript, Python & Linux**  
+- ⚡ Want to become a **Web Developer**  
+- 🎯 Focus: Consistency, basics, and building small projects  
 - 📍 Gujarat, India  
-- 👨‍💻 Focus: Web Development (HTML, CSS, JS) + Python & Linux  
-- 🎯 Goal: Build a solid foundation and publish real projects
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Tech I'm Learning Right Now  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,bootstrap,tailwind,vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,vscode,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 <p align="center">
-  <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ChauhanJayrajsinh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" width="48%"/>
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanJayrajsinh&layout=compact&theme=dark&hide_border=true" alt="Most used languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChauhanJayrajsinh&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanJayrajsinh&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
-<!-- Contribution / Streaks -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanJayrajsinh&theme=dark&hide_border=true" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanJayrajsinh&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-> Add links to your repositories here — copy the repo URL and paste.
-- [Portfolio (example)](https://github.com/ChauhanJayrajsinh/portfolio) — A simple responsive website (HTML/CSS/JS)
-- [Web Starter](https://github.com/ChauhanJayrajsinh/web-starter) — Boilerplate with index.html & styles
+## 🌱 Current Goal  
+Build a strong foundation in **HTML, CSS, JavaScript, Python, and Linux**, and publish beginner-friendly projects.
 
 ---
 
-## 📫 Connect
+## 📂 Projects (Will Add More Soon)
+- 🔹 *Coming soon…*
+
+---
+
+## 📫 Connect  
 <p align="center">
-  <a href="https://github.com/ChauhanJayrajsinh"><img src="https://skillicons.dev/icons?i=github" width="36"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" width="36"/></a>
+  <a href="https://github.com/ChauhanJayrajsinh">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
 </p>
 
 ---
-
-*Made with ❤️ — update the project links and tweak badges to match your real tools.*
