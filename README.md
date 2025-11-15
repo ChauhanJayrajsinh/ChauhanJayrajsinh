@@ -45,7 +45,7 @@
   />
 </p>
 
---
+---
 
 ## 🚀 Current Goal
 Build a strong base in **Web Development, Python & Linux**, and publish beginner-friendly projects on GitHub.
