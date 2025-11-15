@@ -1,13 +1,11 @@
-<!-- Top Banner (Blue → Purple) -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Hey!%20I'm%20Jayraj%20Chauhan&height=150&fontSize=40&desc=1st%20Semester%20B-Tech%20%7C%20Web%20Dev%20Learner&descAlignY=70&color=0:4facfe,100:6a00f4&stroke=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&color=4f86f7&text=Hey!%20I'm%20Jayraj%20Chauhan&fontColor=ffffff&fontSize=36&fontAlign=50&fontAlignY=40&section=header&reversal=true" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=6A00F4&center=true&vCenter=true&width=500&lines=1st+Semester+B-Tech+Student;Learning+Web+Development;HTML+%7C+CSS+%7C+JavaScript;Python+%26+Linux+Learner;Building+My+Foundation" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=6A00F4&center=true&vCenter=true&width=500&lines=Web+Development+Learner;1st+Semester+B-Tech+Student;HTML+CSS+JavaScript;Python+%26+Linux+Beginner;Building+My+Foundation" />
 </p>
 
 ---
@@ -15,13 +13,13 @@
 ## 🧑‍💻 About Me
 - 🎓 First-year B-Tech student  
 - 🌱 Learning **HTML, CSS, JavaScript, Python, Linux**  
-- 💻 Goal: Become a Web Developer  
-- 🎯 Focus on small projects + strong basics  
+- 💻 Goal: Web Developer  
+- 🎯 Focused on strong basics + projects  
 - 📍 Gujarat, India
 
 ---
 
-## 🧰 Technologies I'm Learning  
+## 🧰 Technologies I'm Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,vscode,git,github" />
 </p>
@@ -41,12 +39,12 @@
 ---
 
 ## 🚀 Current Goal
-Build a strong foundation in **Web Development + Python & Linux**.
+Build a strong foundation in **Web Development + Python + Linux**.
 
 ---
 
 ## 📂 Projects (Soon)
-- 🔹 *Will add beginner HTML/CSS/JS projects*
+- 🔹 *Beginner HTML/CSS/JS projects coming soon…*
 
 ---
 
@@ -59,5 +57,5 @@ Build a strong foundation in **Web Development + Python & Linux**.
 
 <!-- Bottom Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=4facfe,6a00f4&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=6a00f4&section=footer" />
 </p>
