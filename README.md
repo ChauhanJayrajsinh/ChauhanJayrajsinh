@@ -90,12 +90,13 @@ Build a strong base in **Web Development, Python & Linux**, and publish beginner
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ChauhanJayrajsinh">
-    <img src="https://skillicons.dev/icons?i=github" width="48" />
-  </a>
-  &nbsp;&nbsp;
+
   <a href="https://x.com/itz_jayraj">
     <img src="https://skillicons.dev/icons?i=twitter" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ChauhanJayrajsinh">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/its_jayraj">
