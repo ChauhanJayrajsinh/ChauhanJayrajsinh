@@ -12,14 +12,14 @@
 - 💻 Beginner developer improving every day  
 - 📚 Learning Linux, Python, SQL, Web Development  
 - 🎯 Growth-focused, disciplined, and curious  
-- 🥊 Boxing enthusiast & self-improvement driven  
 
 ---
 
 ## 🛠 Skills & Tools  
-### 💻 Programming  
+
+### 💻 Programming & Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
 </p>
 
 ### ⚙️ Tools & Platforms  
@@ -38,8 +38,8 @@
 ---
 
 ## 🚀 Current Goal
-Become consistent in coding + build strong foundation in  
-**Python, Linux, SQL, Web Development.**
+Become consistent in coding + build a strong foundation in  
+**Python, Linux, SQL, and Web Development (HTML, CSS, JS).**
 
 ---
 
@@ -51,4 +51,3 @@ Become consistent in coding + build strong foundation in
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
