@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍🎓 <b>About Me</b>
 - <strong>1st Semester **B-Tech Student**
 - Learning **HTML, CSS, JavaScript, Python, Linux**
 - Interested in **Web Development**
