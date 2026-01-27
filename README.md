@@ -11,8 +11,8 @@
 ---
 
 ## 👨‍🎓 <b>About Me</b>
-- <strong>1st Semester **B-Tech Student**
-- Learning **HTML, CSS, JavaScript, Python, Linux**
+- <strong>2nd Semester **B-Tech Student**
+- Learning **HTML, CSS, JavaScript, Python,C,C++, Linux**
 - Interested in **Web Development**
 - Focusing on **strong basics + small beginner projects**
 - Based in **Gujarat, India**</strong>
