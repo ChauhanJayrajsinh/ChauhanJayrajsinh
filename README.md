@@ -62,14 +62,14 @@ My goal is to become an industry-ready developer by consistently building projec
 ## 🧠 MedInsight
 AI-based health analysis system focused on patient data insights and early diagnosis concepts.
 
-🔗 https://github.com/ChauhanJayrajsinh
+🔗 https://chauhanjayrajsinh.github.io/MEDINSIGHT_PROJECT/
 
 ---
 
 ## 🌐 Portfolio Website
 Modern personal portfolio with dark/light theme, smooth UI, responsive design, and interactive sections.
 
-🔗 https://github.com/ChauhanJayrajsinh
+🔗 https://chauhanjayrajsinh.github.io/About_me/
 
 ---
 
