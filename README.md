@@ -132,7 +132,7 @@ Collection of beginner-friendly DOM and JavaScript projects focused on logic bui
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/its_jayraj">
+<a href="https://discord.com/users/itz_jayraj">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
