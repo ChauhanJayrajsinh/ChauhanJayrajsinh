@@ -151,15 +151,11 @@ Collection of beginner-friendly DOM and JavaScript projects focused on logic bui
 
 </p>
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryansrao/aryansrao/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryansrao/aryansrao/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aryansrao/aryansrao/output/github-snake.svg" />
 </picture>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
