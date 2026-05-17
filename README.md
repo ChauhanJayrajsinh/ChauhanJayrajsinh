@@ -89,18 +89,36 @@ Collection of beginner-friendly DOM and JavaScript projects focused on logic bui
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<picture>
+  <img src="https://readme-badge.vercel.app/api/card?username=ChauhanJayrajsinh" alt="GitHub Stats" />
+</picture>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChauhanJayrajsinh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<div align="center">
+  <a href="https://ChauhanJayrajsinh.leapcell.app" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://dev.to/ChauhanJayrajsinh" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/dev.to-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://medium.com/@ChauhanJayrajsinh" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/medium-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/ChauhanJayrajsinh" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&labelColor=111111&color=000000" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ChauhanJayrajsinh" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/ChauhanJayrajsinh" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Instagram"/>
+  </a>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanJayrajsinh&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanJayrajsinh&theme=tokyonight&hide_border=true&border_radius=12"/>
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChauhanJayrajsinh/ChauhanJayrajsinh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChauhanJayrajsinh/ChauhanJayrajsinh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ChauhanJayrajsinh/ChauhanJayrajsinh/output/github-snake.svg" />
+</picture>
 ---
 
 # 🎯 2026 Goals
