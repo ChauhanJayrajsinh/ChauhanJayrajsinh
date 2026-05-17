@@ -114,11 +114,6 @@ Collection of beginner-friendly DOM and JavaScript projects focused on logic bui
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChauhanJayrajsinh/ChauhanJayrajsinh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChauhanJayrajsinh/ChauhanJayrajsinh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ChauhanJayrajsinh/ChauhanJayrajsinh/output/github-snake.svg" />
-</picture>
 ---
 
 # 🎯 2026 Goals
