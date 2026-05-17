@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jayraj%20Chauhan&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jayrajsinh%20Chauhan&fontSize=45&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ I am a B.Tech student from Gujarat, India, focused on mastering web development 
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ChauhanJayrajsinh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jayrajsinh-chauhan-a4a60b382"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
 </p>
